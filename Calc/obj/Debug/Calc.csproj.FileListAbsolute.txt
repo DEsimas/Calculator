@@ -1,0 +1,10 @@
+C:\Users\Серфим\source\repos\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\Серфим\source\repos\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Серфим\source\repos\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Серфим\source\repos\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Серфим\source\repos\Calc\Calc\obj\Debug\Calc.Main.resources
+C:\Users\Серфим\source\repos\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Серфим\source\repos\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\Серфим\source\repos\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Серфим\source\repos\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\Серфим\source\repos\Calc\Calc\obj\Debug\Calc.pdb
