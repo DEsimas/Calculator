@@ -1,0 +1,4 @@
+﻿  CalcForm.cpp
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L3\CalcForm.h(740): warning C4715: 'L3::CalcForm::percent': not all control paths return a value
+  CalcForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  L3.vcxproj -> C:\Users\Serafim\Documents\Programs\mtuci-cpp\L3\x64\Debug\L3.exe

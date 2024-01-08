@@ -1,0 +1,4 @@
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L3\x64\Debug\L3.vcxproj.AssemblyReference.cache
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L3\x64\Debug\L3.exe
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L3\x64\Debug\L3.CalcForm.resources
+C:\Users\Serafim\Documents\Programs\mtuci-cpp\L3\x64\Debug\L3.vcxproj.GenerateResource.cache
